@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alexander Boiarinov, Product and Project Manager with extensive experience, expanding their technical skillset
+- 💻 I’m interested in AI, Machine Learning and Data
+- 🌌 I’m currently studying at 42 Berlin with a focus on AI
+- 🎆 I’m open for collaborations as a Product/Project Manager or AI Development Intern
+- ☄️ How to reach me: @aboiarinov in Telegram || a.boiarinov@icloud.com
