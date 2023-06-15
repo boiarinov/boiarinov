@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexander Boiarinov, Product and Project Manager with extensive experience, expanding my technical skillset
+- 👋 Hi, I’m Alexander Boiarinov, Product and Project Manager with extensive experience, expanding my technical skillset in coding and development
 - 💻 I’m interested in AI, Machine Learning and Data
 - 🌌 I’m currently studying at 42 Berlin with a focus on AI
 - 🎆 I’m open for collaborations as a Product/Project Manager or AI Development Intern
