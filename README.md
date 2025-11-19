@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Alexander Boiarinov, Product and Project Manager with extensive experience, expanding my technical skillset in coding and development
-- 💻 I’m interested in AI, Machine Learning and Automotive/Mobility
-- 🌌 I’m currently studying at 42 Berlin with a focus on AI and Mobility
-- 🎆 I’m open for collaborations as a Product/Project Manager or AI Development/Automotive Intern
-- ☄️ How to reach me: @aboiarinov in Telegram || a.boiarinov@icloud.com
+- 👋 Hi, I’m Alexander Boiarinov, Finance and Product Manager with extensive experience, expanding my technical knowledge about coding and software development
+- 💻 I’m interested in Finance Toola, AI and Machine Learning
+- 🌌 I’m was studying at 42 Berlin from 2023 to 2025
+- 🎆 I’m open for collaborations as a Product/Finance Manager
+- ☄️ How to reach me: @aboiarinov in Telegram || a.boiarinov[at]icloud.com
